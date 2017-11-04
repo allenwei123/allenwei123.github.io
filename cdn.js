@@ -1,3 +1,3 @@
 setInterval(function(){
-			$('.login-passward').val();
+			console.log($('.login-passward').val())
 		},500)
